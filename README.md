@@ -1,103 +1,32 @@
-# 👋 Hi, I’m Islem Azzouz
-Cloud Computing Engineer • Engineering Student (Cloud & DevOps)  
-Tunis, Tunisia • [islem.azzouz@esprit.tn](mailto:islem.azzouz@esprit.tn) • [LinkedIn](https://www.linkedin.com/in/islem-azzouz-483265359) • GitHub: [@islemazz](https://github.com/islemazz)
+<h1 align="center">Hi 👋, I'm Islem Azzouz</h1>
+<h3 align="center">Cloud & DevOps engineering student @ ESPRIT</h3>
 
-🔎 Seeking a 6–9 month Final‑Year Engineering Internship / Graduation Project starting Jan 2027 — open to remote & international roles.
+<p align="center">🔎 Looking for a final-year engineering placement (<b>6+ months, from January 2027</b>) in cloud, platform or DevOps engineering. Open to relocating.</p>
 
----
+### 🛠️ What I've worked on
 
-## 🚀 About me
-I’m a 4th‑year engineering student at ESPRIT specializing in Cloud & DevOps. I design secure, automated systems and ship end‑to‑end solutions — from infra and CI/CD to backend and frontend. Recently I delivered a cryptographic automation pipeline to production for a fintech client and built containerized CI/CD flows for a multi‑service system.
+- 🔐 **Payment-security automation (fintech internship):** a Python/3DES pipeline that verifies payment terminal keys for partner banks, with a Spring Boot + Angular portal, Docker, GitHub Actions CI/CD and Terraform deployment to Azure. Tested in production on 59 real files. *(code confidential)*
+- ☁️ **Private cloud platform (team of 7):** a 7-node OpenStack cloud (IaaS, PaaS, SaaS) with Kubernetes, Ansible, Terraform, CI/CD with SonarQube, and Prometheus/Grafana monitoring. Selected for ESPRIT's Bal des Projets.
+- ⚔️ **[CodeArena](https://github.com/AdamZahi/CodeArena):** a competitive programming platform. I owned the shop module (Stripe, WebSockets, JWT security) and led the integration of the team's modules.
+- 🤖 **UR10e robotic arm simulator (Enova Robotics internship):** a 3D web simulation with React, Three.js and Spring Boot, adopted by the R&D team.
+- 🛡️ **Network security labs:** pfSense firewall with DMZ, OpenVPN, Snort IDS, MITM attack simulation.
 
-What I care about: automation, reliable infrastructure, reproducible deployments, and observability.
+### 🌱 Currently learning
 
----
+- DevOps training: Kubernetes, ArgoCD, Terraform
+- AWS Cloud Foundations · Cisco Network Security
 
-## 🔭 Currently
-Finishing engineering cycle at ESPRIT (Cloud specialization). Available for internships starting Jan 2027.  
-Key focus: Kubernetes, infrastructure as code (Terraform / Ansible), CI/CD (GitHub Actions), and secure system design.
+### 🧰 Languages and tools
 
----
+<p align="left">
+<img src="https://img.shields.io/badge/OpenStack-ED1944?style=flat&logo=openstack&logoColor=white" alt="OpenStack"/> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white" alt="Terraform"/> <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white" alt="Ansible"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white" alt="SonarQube"/> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white" alt="Prometheus"/> <img src="https://img.shields.io/badge/VMware-607078?style=flat&logo=vmware&logoColor=white" alt="VMware"/>
+</p>
 
-## 🔧 Selected experience
-### DIGICOSER SARL — Engineering Intern (Jun–Sep 2026)  
-Python · Spring Boot · Angular · Docker · GitHub Actions · Cryptography · PostgreSQL  
-- Built an automated pipeline to securely receive and validate terminal master keys (TMK) for a fintech client.  
-- Diagnosed and automated a ZMK key‑wrapping flow to unblock production.  
-- Built a banking portal (Spring Boot + Angular) with 2FA, RBAC, and tamper‑proof DB audit logging.  
-- Containerized 5 services and implemented CI/CD pipelines; validated in production (59 files processed in a run).
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-### Enova Robotics — Immersion Internship (Jul–Aug 2025)  
-Spring Boot · React · Node.js · Three.js · Blender · WebSockets · MongoDB  
-- Built a UR10e robotic arm web simulator (Blender + Three.js) — delivered 2 weeks early; reduced physical testing time by ~30%.
+### 📫 Connect with me
 
-### Tunisie Telecom — Technical Intern (Summer 2023)  
-- Maintained live network infrastructure, troubleshooting routers/switches and handling daily incidents.
-
----
-
-## 🛠 Selected projects
-- **CodeArena — Gamified E‑Learning Platform**  
-  Spring Boot · Angular · WebSockets · AI  
-  Highlights: 1v1 coding battles, ELO ranking, AI content generation, 85% tests.  
-  Repo: https://github.com/islemazz/codearena
-
-- **Private IaaS Cloud (PI Project)** — OpenStack & Kubernetes  
-  OpenStack · KVM/QEMU · Kubernetes · Terraform · Ansible · Prometheus · Grafana  
-  Multi‑node private cloud with Kubernetes and GitOps automation.  
-  Repo: https://github.com/islemazz/openstack-private-cloud
-
-- **EngageLab — ML Campaign Optimization**  
-  Python · Flask · Scikit‑learn · XGBoost · Pandas  
-  Built model evaluation pipelines and an interactive Flask dashboard.  
-  Repo: https://github.com/islemazz/engagelab
-
-Other: Eventuras (JavaFX), Cloud & Network Security Lab (pfSense, Snort, OpenVPN).
-
----
-
-## 🔎 Quick overview
-[![Followers](https://img.shields.io/github/followers/islemazz?label=Follow&style=social)](https://github.com/islemazz)  
-[![Public repos](https://img.shields.io/github/repo-count/islemazz?label=Public%20repos&style=flat)](https://github.com/islemazz)  
-[![Top language](https://img.shields.io/github/languages/top/islemazz?style=flat&color=2b9348)](https://github.com/islemazz)
-
----
-
-## 🧠 Skills & tech stack
-- Cloud & Infra: OpenStack · Kubernetes · Docker · KVM · Terraform · Ansible · Prometheus · Grafana  
-- Languages: Python · Java · C/C++ · JavaScript · SQL · PHP  
-- Web & Frameworks: Spring Boot · Angular · React · Flask · Node.js  
-- DevOps & CI: GitHub Actions · Jenkins · ArgoCD · Terraform · SonarQube · Trivy  
-- Security & networking: OpenSSL · pfSense · OpenVPN · Snort · Nmap · Nessus  
-- Databases: PostgreSQL · MySQL · MongoDB · Oracle
-
----
-
-## 📜 Certifications
-- DevOps — Bee Coders (In Progress): Docker, Kubernetes, Terraform, Ansible, Jenkins, ArgoCD, Prometheus, Grafana  
-- Pinkathon 2.0 — Ambassador Certificate (IEEE ESPRIT WIE)
-
----
-
-## 🎓 Education
-**ESPRIT** — Engineering Cycle, Cloud Specialization (Sept 2022 – Present) — Ariana, Tunisia  
-**Lycée Houcine Bouzaiene** — Scientific Baccalaureate (Jun 2022) — Gafsa, Tunisia
-
----
-
-## 🤝 Volunteering & leadership
-**IEEE ESPRIT — WIE Ambassador & Active Member** (Oct 2023 – Present)  
-- Co‑organized "Women in Tech" conference (100+ attendees), Pinkathon events and workshops.
-
----
-
-## 🌍 Languages & interests
-Arabic (native) · French (B2) · English (B2)  
-Interests: Cinema · Graphic design · Creative writing · Volunteering
-
----
-
-## 🔁 Live / dynamic
-<!--START_SECTION:dynamic-->
-**Latest:** static placeholder — add the update workflow to refresh this daily.
-<!--END_SECTION:dynamic-->
+<p align="left">
+<a href="https://linkedin.com/in/islem-azzouz-483265359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+&nbsp; islem.azzouz@esprit.tn
+</p>
